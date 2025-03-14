@@ -1,5 +1,5 @@
 # B-Biformer-SR
-@[TOC](B-Biformer-SR：An Efficient Super-Resolution Network Based on Spatial-Frequency Loss for Precision Measurement)
+(B-Biformer-SR：An Efficient Super-Resolution Network Based on Spatial-Frequency Loss for Precision Measurement)
 This is the official code of B-Biformer-SR: An Efficient Super-Resolution Network Based on Spatial-Frequency Loss for Precision Measurement
 # Training
 Please revise the JSON to adjust the training parameters.
